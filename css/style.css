@@ -1,0 +1,185 @@
+a {
+  color: rgba(0,60,64,1);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(0,198,94,1);
+}
+
+h1 {
+  font-size: 1em;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgba(255,255,255,1);
+}
+
+.section {
+  padding: 20px 0 30px 0;
+}
+
+.illu {
+  background: rgba(255,255,255,1);
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  display: table;
+}
+
+.illu p {
+  text-align: center;
+  margin-top: 120px;
+}
+
+.people {
+  background: rgba(255,255,255,1);
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  display: table;
+}
+
+.people p {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.bubble {
+  background: rgba(255,255,255,1);
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  display: table;
+}
+
+.bubble h2 {
+  font-size: 1.4em;
+  font-weight: normal;
+  display:table-cell;
+  vertical-align: middle;
+  text-align: center;
+  margin: 0 20px;
+}
+
+.bubble p {
+  display:table-cell;
+  vertical-align: middle;
+  text-align: center;
+  margin: 0 20px;
+}
+
+#header {
+  background: rgba(0,0,0,0.05);
+  padding: 10px 0;
+}
+
+#logo {
+  margin-top: 8px;
+}
+
+#nav {
+  text-transform: uppercase;
+  text-align: right;
+}
+
+#nav span {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: rgba(0,198,94,1);
+}
+
+#nav span a {
+  color: rgba(0,198,94,1);
+}
+
+#nav ul.navigation li {
+  list-style-type: none;
+  float: right;
+  font-size: 0.75em;
+  font-weight: bold;
+}
+
+#intro {
+  background: rgba(255,255,255,1);
+  padding: 40px 0;
+}
+
+#quotes p {
+  font-size: 1.5em;
+}
+
+#author span {
+  font-weight: bold;
+}
+
+#sectionC {
+  background: rgba(0,150,225,1);
+  color: rgba(0,150,225,1);
+}
+
+#sectionM {
+  background: rgba(230,0,125,1);
+  color: rgba(230,0,125,1);
+}
+
+#sectionY {
+  background: rgba(255,220,0,1);
+  color: rgba(255,220,0,1);
+}
+
+#sectionK {
+  background: rgba(0,0,0,1);
+  color: rgba(0,0,0,1);
+}
+
+#step1-C .illu {
+  background-image:url(../img/step1.png);
+}
+
+#step2-C .illu {
+  background-image:url(../img/step2.png);
+}
+
+#step3-C .illu {
+  background-image:url(../img/step3.png);
+}
+
+#step4-C .illu {
+  background-image:url(../img/step4.png);
+}
+
+#step1-Y .people {
+  background-image:url(../img/erik.jpg);
+}
+
+#step2-Y .people {
+  background-image:url(../img/thom.jpg);
+}
+
+#step3-Y .people {
+  background-image:url(../img/erik.jpg);
+}
+
+#step2-K img {
+  border-radius: 50%;
+}
+
+#step3-K img {
+  width: 140px;
+  padding-top: 10px;
+}
+
+#footer {
+  background: rgba(0,0,0,0.05);
+  color: rgba(0,60,64,1);
+  padding: 10px 0;
+}
+
+#footer a {
+  color: rgba(0,60,64,1);
+  text-decoration: none;
+}
+
+#footer a:hover {
+  color: rgba(0,198,74,1);
+}
